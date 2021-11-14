@@ -1,7 +1,7 @@
 ### 👋 Hi There, I am Kuldeep Bhurani
 - 🏠 I am based out of India
 - 👀 I’m interested in coding & programming
-## Languages and Tools:
+## Languages and Tools
 ### Languages
 ![html](https://user-images.githubusercontent.com/84840495/141685978-5ed1fbef-c831-4c23-92b0-71848e5e5ad5.png)
 ![pug](https://user-images.githubusercontent.com/84840495/141686398-da1df52c-765b-4d5e-b6c0-f78ed8f66704.png)
