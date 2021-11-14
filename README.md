@@ -4,6 +4,7 @@
 ## Languages and Tools:
 ### Languages
 ![html](https://user-images.githubusercontent.com/84840495/141685978-5ed1fbef-c831-4c23-92b0-71848e5e5ad5.png)
+![pug](https://user-images.githubusercontent.com/84840495/141686398-da1df52c-765b-4d5e-b6c0-f78ed8f66704.png)
 ![css](https://user-images.githubusercontent.com/84840495/141685980-5fc9a9f6-4756-4c88-876a-48bcd68ef3b9.png)
 ![sass](https://user-images.githubusercontent.com/84840495/141685986-9057d6f0-406e-425f-b7b6-8c09ee0d8a32.png)
 ![js](https://user-images.githubusercontent.com/84840495/141685988-7c682aa8-c9c7-484a-97fb-3f63ff7470a9.png)
